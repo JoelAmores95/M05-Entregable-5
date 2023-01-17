@@ -57,5 +57,12 @@ public class UnitTestCCC
         Assert.False(result);
     }
 
+    [Fact]
+    public void TestCCCGenerado()
+    {
+        string ccc = CCCGenerator.GenerateValidCCC("208544417152737978XX");
+        bool result = CCCValidator.ValidarCCC(ccc);
+        Assert.True(result);
+    }
 
 }

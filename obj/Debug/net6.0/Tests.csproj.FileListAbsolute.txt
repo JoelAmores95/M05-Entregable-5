@@ -1,0 +1,12 @@
+c:\Desarrollo\M5\M05-Entregable-5-main\bin\Debug\net6.0\Tests.deps.json
+c:\Desarrollo\M5\M05-Entregable-5-main\bin\Debug\net6.0\Tests.dll
+c:\Desarrollo\M5\M05-Entregable-5-main\bin\Debug\net6.0\Tests.pdb
+c:\Desarrollo\M5\M05-Entregable-5-main\obj\Debug\net6.0\Tests.csproj.AssemblyReference.cache
+c:\Desarrollo\M5\M05-Entregable-5-main\obj\Debug\net6.0\Tests.GeneratedMSBuildEditorConfig.editorconfig
+c:\Desarrollo\M5\M05-Entregable-5-main\obj\Debug\net6.0\Tests.AssemblyInfoInputs.cache
+c:\Desarrollo\M5\M05-Entregable-5-main\obj\Debug\net6.0\Tests.AssemblyInfo.cs
+c:\Desarrollo\M5\M05-Entregable-5-main\obj\Debug\net6.0\Tests.csproj.CoreCompileInputs.cache
+c:\Desarrollo\M5\M05-Entregable-5-main\obj\Debug\net6.0\Tests.dll
+c:\Desarrollo\M5\M05-Entregable-5-main\obj\Debug\net6.0\refint\Tests.dll
+c:\Desarrollo\M5\M05-Entregable-5-main\obj\Debug\net6.0\Tests.pdb
+c:\Desarrollo\M5\M05-Entregable-5-main\obj\Debug\net6.0\ref\Tests.dll

@@ -6109,24 +6109,31 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\el_jo\\.nuget\\packages\\": {}
+    "C:\\Users\\joel.amores.ext\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\el_jo\\OneDrive\\Documentos\\M5 Entornos de desarrollo\\TestIBAN\\TestIBAN.csproj",
+      "projectUniqueName": "C:\\Desarrollo\\M5\\M05-Entregable-5-main\\TestIBAN.csproj",
       "projectName": "TestIBAN",
-      "projectPath": "C:\\Users\\el_jo\\OneDrive\\Documentos\\M5 Entornos de desarrollo\\TestIBAN\\TestIBAN.csproj",
-      "packagesPath": "C:\\Users\\el_jo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\el_jo\\OneDrive\\Documentos\\M5 Entornos de desarrollo\\TestIBAN\\obj\\",
+      "projectPath": "C:\\Desarrollo\\M5\\M05-Entregable-5-main\\TestIBAN.csproj",
+      "packagesPath": "C:\\Users\\joel.amores.ext\\.nuget\\packages\\",
+      "outputPath": "C:\\Desarrollo\\M5\\M05-Entregable-5-main\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\el_jo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\joel.amores.ext\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -6182,7 +6189,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
